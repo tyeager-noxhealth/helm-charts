@@ -1,4 +1,5 @@
 {
+  "forks": true
   "extends": [
     "config:base",
     ":disableRateLimiting"
